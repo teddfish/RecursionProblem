@@ -1,0 +1,12 @@
+c:\users\sdighe\documents\visual studio 2012\Projects\Recursion\Recursion\bin\Debug\Recursion.exe.config
+c:\users\sdighe\documents\visual studio 2012\Projects\Recursion\Recursion\bin\Debug\Recursion.exe
+c:\users\sdighe\documents\visual studio 2012\Projects\Recursion\Recursion\bin\Debug\Recursion.pdb
+c:\users\sdighe\documents\visual studio 2012\Projects\Recursion\Recursion\obj\Debug\Recursion.exe
+c:\users\sdighe\documents\visual studio 2012\Projects\Recursion\Recursion\obj\Debug\Recursion.pdb
+C:\Users\sdighe\Documents\Visual Studio 2012\Projects\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\5hw3t\Desktop\CV&Portfolio\Portfolio Stuff\Recursion\Recursion\obj\Debug\Recursion.pdb
